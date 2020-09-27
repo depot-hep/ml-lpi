@@ -1,6 +1,6 @@
 # Machine Learning at Lebedev Physical Institute
 
-This course has been designed to introduce the topic of Machine Learning (ML) to a High Energy Physics (HEP) audience. Although the common platform initially was the Lebedev Physical Institute (LPI), where its predecessor took place in the spring semester of 2019, the course's coverage is expanding. Currently, during the autumn semester of 2020 it is being taught to HEP students of MIPT and MEPhI, so the materials will be uploaded accordingly. For a more comprehensive overview and introduction to the topic, please have a look at the [kick-off lecture slides.]()
+This course has been designed to introduce the topic of Machine Learning (ML) to a High Energy Physics (HEP) audience. Although the common platform initially was the Lebedev Physical Institute (LPI), where its predecessor took place in the spring semester of 2019, the course's coverage is expanding. Currently, during the autumn semester of 2020 it is being taught to HEP students of MIPT and MEPhI, so the materials will be uploaded accordingly. For a more comprehensive overview and introduction to the topic, please have a look at the [kick-off lecture slides.](https://github.com/ml-lpi/ml-lpi/blob/master/Kick-off/Kick_off_lecture.pdf)
 
 ### Synopsis
 1.  Python
