@@ -12,7 +12,7 @@ This course has been designed to introduce the topic of Machine Learning (ML) to
 6.  ML in HEP
 
 ### Lecture recordings
-[Here](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing) you can find the recordings of lectures.
+The video recordings of lectures are stored [here.](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing) 
 
 ### Prerequisites
 There is not much needed to start exploring things: basics of calculus, linear algebra, statistics and some understanding of programming (not necessarily Python). However, you still need to setup a few things to go ahead with coding, so please refer to [these instructions](https://www.notion.so/Getting-started-5c28a72ae7c84828a916d2644d084176) where we guide you through the essential process of preparing the coding environment. 
