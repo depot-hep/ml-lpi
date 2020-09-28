@@ -1,0 +1,9 @@
+total 248
+drwxr-xr-x 6 yaourt yaourt   4096 сен 26 12:08 .
+drwxr-xr-x 6 yaourt yaourt   4096 сен 23 10:30 ..
+drwxr-xr-x 3 yaourt yaourt   4096 сен 26 12:09 data
+drwxr-xr-x 2 yaourt yaourt   4096 сен 12 10:08 images
+drwxr-xr-x 2 yaourt yaourt   4096 сен 23 10:35 .ipynb_checkpoints
+drwxr-xr-x 3 yaourt yaourt   4096 сен 23 11:28 modules
+-rw-rw-r-- 1 yaourt yaourt 136147 сен 26 12:03 python1_part1.ipynb
+-rw-rw-r-- 1 yaourt yaourt  90005 сен 26 12:08 python1_part2.ipynb
