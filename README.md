@@ -12,7 +12,7 @@ This course has been designed to introduce the topic of Machine Learning (ML) to
 6.  ML in HEP
 
 ### Lecture recordings
-The video recordings of lectures are stored [here.](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing)  (in Russian)
+The video recordings of lectures are stored [here](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing)  (in Russian)
 
 ### Announcements
 
