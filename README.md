@@ -14,5 +14,9 @@ This course has been designed to introduce the topic of Machine Learning (ML) to
 ### Lecture recordings
 The video recordings of lectures are stored [here.](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing) 
 
+### Announcements
+
+All the announcements and news related to the course are being posted in [this](https://t.me/joinchat/AAAAAFKpVt6uUk49Io0yFQ) Telegram channel (in Russian)
+
 ### Prerequisites
 There is not much needed to start exploring things: basics of calculus, linear algebra, statistics and some understanding of programming (not necessarily Python). However, you still need to setup a few things to go ahead with coding, so please refer to [these instructions](https://www.notion.so/Getting-started-5c28a72ae7c84828a916d2644d084176) where we guide you through the essential process of preparing the coding environment. 
