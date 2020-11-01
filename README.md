@@ -5,7 +5,7 @@ This course has been designed to introduce the topic of Machine Learning (ML) to
 ### Synopsis
 0.  [Kick-off](https://github.com/ml-lpi/ml-lpi/tree/master/Kick-off)
 1.  [Python](https://github.com/ml-lpi/ml-lpi/tree/master/Python)
-2.  Introduction to ML
+2.  [Introduction to ML](https://github.com/ml-lpi/ml-lpi/tree/master/Intro_to_ML)
 3.  Trees
 4.  Neural Networks
 5.  Computer Vision & Generative Models
