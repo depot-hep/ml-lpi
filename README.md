@@ -25,7 +25,7 @@ The video recordings of lectures are stored [here](https://drive.google.com/file
 * Stepan Zakharov [NSU] (<stepan.zakharov@cern.ch>)
 * Vladimir Bocharnikov [MEPhI, DESY] (<vobocharnikov@yandex.ru>)
 * Olga Razuvaeva [MEPhI, ITEP] (<or.firefox@gmail.com>)
-* Sergey Korpachev [MEPhI, LPI] (<korpachevss@lebedev.ru>)
+* Sergey Korpachev [MIPT, LPI] (<korpachevss@lebedev.ru>)
 * Andrey Filatov [MIPT] (<filatov.av@phystech.edu>)
 * Daniil Yakovlev [HSE] (<daniil.d.yakovlev@gmail.com>)
 * Kirill Bukin [MIPT, LPI] (<bukin.ka@phystech.edu>)
