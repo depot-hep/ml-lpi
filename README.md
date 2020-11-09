@@ -15,7 +15,7 @@ Although the common platform initially was the Lebedev Physical Institute (LPI),
 
 **1.  Python**
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/Python)
-* recordings: [seminar part 1](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar part 2](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
+* recordings: [seminar (part 1)](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar (part 2)](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
 
 **2.  Introduction to ML**
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/Intro_to_ML)
