@@ -15,13 +15,13 @@ Although the common platform initially was the Lebedev Physical Institute (LPI),
 
 **1.  Python**
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/Python)
-* recordings: [seminar part 1](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar part 2](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
+* recordings: [seminar (part 1)](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar (part 2)](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
 
---> **2.  Introduction to ML**
+**2.  Introduction to ML**
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/Intro_to_ML)
-* recordings: [lecture 1](https://drive.google.com/file/d/1CJkNNzJOeVz22R5yfICQ1lyrMWXToQpi/view?usp=sharing)
+* recordings: [lecture 1](https://drive.google.com/file/d/1CJkNNzJOeVz22R5yfICQ1lyrMWXToQpi/view?usp=sharing), [lecture 2](https://drive.google.com/file/d/1sZUz_jzLNeAZpwekPiPEAYSKVqHKhrDB/view?usp=sharing), [seminar](https://drive.google.com/file/d/1pICE4x9xm_89_O7YSSJVBBFA-HX8dnWT/view?usp=sharing)
 
-**3.  Trees**
+--> **3.  Trees**
 
 **4.  Neural Networks**
 
