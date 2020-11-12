@@ -35,7 +35,7 @@ The common platform initially was the Lebedev Physical Institute (LPI), where it
 There is not much needed to start the journey: basics of calculus, linear algebra, statistics and some understanding of programming (not necessarily Python). However, you still need to setup a few things to go ahead with coding, so please refer to [these instructions](https://www.notion.so/Getting-started-5c28a72ae7c84828a916d2644d084176) where we guide you through the essential process of preparing the coding environment. 
 
 ### Announcements
-All the announcements and news related to the course are being posted in [this](https://t.me/joinchat/AAAAAFKpVt6uUk49Io0yFQ) Telegram channel (in Russian)
+All the announcements and news related to the course are being posted in [this](https://t.me/joinchat/AAAAAFKpVt6uUk49Io0yFQ) Telegram channel (in Russian). Also, there is a dedicated [chat](https://t.me/joinchat/GqvG80Wf7CBMKKXqnA0Ggg) for discussions.
 
 ### Authors
 * Oleg Filatov [DESY] (<oleg.filatov@cern.ch>)
