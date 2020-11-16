@@ -1,6 +1,6 @@
 # Machine Learning at Lebedev Physical Institute
 
-This course has been designed to introduce the topic of Machine Learning (ML) to a High Energy Physics (HEP) audience, following a classical Data Science approach with a gradual addition of HEP specifics on the way. Although enriched with HEP (with a strong bias towards experimental physics) examples in particular, the course aims to provide a general and basic description of ML fundamentals regardless of its application.  
+This course has been designed to introduce the topic of Machine Learning (ML) to a High Energy Physics (HEP) audience, following a classical Data Science approach with a gradual addition of HEP specifics on the way. Although enriched with HEP (with a strong bias towards its experimental part) examples in particular, the course aims to provide a general and basic description of ML fundamentals regardless of its application.  
 
 The common platform initially was the Lebedev Physical Institute (LPI), where its predecessor took place in the spring semester of 2019, but the course's coverage is expanding. Currently, during the autumn semester of 2020 it is being taught to HEP students of MIPT and MEPhI, so the materials will be uploaded accordingly. For a more comprehensive course overview and introduction to the topic, please have a look at the [kick-off lecture slides.](https://github.com/ml-lpi/ml-lpi/blob/master/week0_kick_off/Kick_off_lecture.pdf)
 
@@ -21,9 +21,11 @@ The common platform initially was the Lebedev Physical Institute (LPI), where it
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/week1_intro_to_ml)
 * recordings: [lecture 1](https://drive.google.com/file/d/1CJkNNzJOeVz22R5yfICQ1lyrMWXToQpi/view?usp=sharing), [lecture 2](https://drive.google.com/file/d/1sZUz_jzLNeAZpwekPiPEAYSKVqHKhrDB/view?usp=sharing), [seminar](https://drive.google.com/file/d/1pICE4x9xm_89_O7YSSJVBBFA-HX8dnWT/view?usp=sharing)
 
---> **3.  Trees**
+**3.  Trees**
+* [materials](https://github.com/ml-lpi/ml-lpi/tree/master/week2_trees)
+* recordings: (lecture not available), [seminar](https://drive.google.com/file/d/1h4W_jb4BaSesCLTDb7UxxYl9UdMWh-M7/view?usp=sharing)
 
-**4.  Neural Networks**
+--> **4.  Neural Networks**
 
 **5.  Computer Vision & Generative Models**
 
