@@ -46,5 +46,5 @@ For Russian-speaking audience: all the announcements and news related to the cou
 * Olga Razuvaeva [MEPhI, ITEP] (<or.firefox@gmail.com>)
 * Sergey Korpachev [MIPT, LPI] (<korpachevss@lebedev.ru>)
 * Andrey Filatov [MIPT] (<filatov.av@phystech.edu>)
-* Daniil Yakovlev [HSE] (<daniil.d.yakovlev@gmail.com>)
+* Daniil Yakovlev [HSE, YSDA] (<daniil.d.yakovlev@gmail.com>)
 * Kirill Bukin [MIPT, LPI] (<bukin.ka@phystech.edu>)
