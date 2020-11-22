@@ -1,0 +1,35 @@
+name: ml-lpi
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - python=3.8
+  - pip=20.1
+  - pip:
+    - shap==0.36
+    - seaborn==0.11
+    - wget==3.2
+    - livelossplot==0.5.3
+  - root=6.20
+  - uproot=3.12
+  - iminuit=1.4
+  - mplhep=0.1
+  - scikit-learn=0.23.2
+  - scipy=1.5
+  - statsmodels=0.12
+  - plotly=4.9
+  - pandas=1.1
+  - numpy=1.19
+  - xgboost=1.2
+  - lightgbm=3.0
+  - catboost=0.24
+  - matplotlib=3.3
+  - jupyterlab=2.2
+  - ipywidgets=7.5
+  - nodejs
+  - tensorflow==2.3.0
+  - protobuf==3.12.4
+  - tqdm==4.48.2
+  - ipywidgets==7.5.1
+
