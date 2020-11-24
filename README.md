@@ -25,9 +25,11 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/week2_trees)
 * recordings: (lecture not available), [seminar](https://drive.google.com/file/d/1h4W_jb4BaSesCLTDb7UxxYl9UdMWh-M7/view?usp=sharing)
 
---> **4.  Neural Networks**
+**4.  Neural Networks**
+* [materials](https://github.com/ml-lpi/ml-lpi/tree/master/week3_nn)
+* recordings: [lecture](https://drive.google.com/file/d/1WOdZ6b3y9u6I0wUMXkdbqS6jpW6tYb2v/view?usp=sharing), [seminar](https://drive.google.com/file/d/1j0hb6R5vWXBzTPCJYutbivmqutu5vq6P/view?usp=sharing)
 
-**5.  Computer Vision & Generative Models**
+--> **5.  Computer Vision & Generative Models**
 
 **6.  ML in HEP**
 
