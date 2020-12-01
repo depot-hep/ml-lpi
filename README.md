@@ -44,7 +44,7 @@ For Russian-speaking audience: all the announcements and news related to the cou
 ### Authors
 * Oleg Filatov [DESY] (<oleg.filatov@cern.ch>)
 * Stepan Zakharov [NSU] (<stepan.zakharov@cern.ch>)
-* Vladimir Bocharnikov [MEPhI, DESY] (<vobocharnikov@yandex.ru>)
+* Vladimir Bocharnikov [DESY, MEPhI] (<vobocharnikov@yandex.ru>)
 * Olga Razuvaeva [MEPhI, ITEP] (<or.firefox@gmail.com>)
 * Sergey Korpachev [MIPT, LPI] (<korpachevss@lebedev.ru>)
 * Andrey Filatov [MIPT] (<filatov.av@phystech.edu>)
