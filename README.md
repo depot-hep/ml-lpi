@@ -49,4 +49,4 @@ For Russian-speaking audience: all the announcements and news related to the cou
 * Sergey Korpachev [MIPT, LPI RAS] (<korpachevss@lebedev.ru>)
 * Andrey Filatov [MIPT] (<filatov.av@phystech.edu>)
 * Daniil Yakovlev [HSE, YSDA] (<daniil.d.yakovlev@gmail.com>)
-* Kirill Bukin [MIPT, LPI RAS] (<bukin.ka@phystech.edu>)
+* Kirill Bukin [MIPT] (<bukin.ka@phystech.edu>)
