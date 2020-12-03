@@ -8,7 +8,7 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 
 ---
 
-### Synopsis
+### Syllabus
 **0.  Kick-off**
 * [materials](https://github.com/ml-lpi/ml-lpi/tree/master/week0_kick_off)
 * [recording](https://drive.google.com/file/d/1QuuOI90HoC299y6wI4VBgcvfLFjlhCgp/view?usp=sharing)
