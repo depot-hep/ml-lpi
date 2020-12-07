@@ -29,9 +29,11 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 * [materials](https://github.com/depot-hep/ml-lpi/tree/master/week3_nn)
 * recordings: [lecture](https://drive.google.com/file/d/1WOdZ6b3y9u6I0wUMXkdbqS6jpW6tYb2v/view?usp=sharing), [seminar](https://drive.google.com/file/d/1j0hb6R5vWXBzTPCJYutbivmqutu5vq6P/view?usp=sharing)
 
---> **5.  Computer Vision & Generative Models**
+**5.  Computer Vision & Generative Models**
+* [materials](https://github.com/depot-hep/ml-lpi/tree/master/week4_cv_gm)
+* recordings: [lecture](https://drive.google.com/file/d/1taPFBDzFCYeg6kzU2aK1l-zlD8DVBYss/view?usp=sharing), (seminar not available)
 
-**6.  ML in HEP**
+--> **6.  ML in HEP**
 
 ---
 
