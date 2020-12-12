@@ -33,7 +33,7 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 * [materials](https://github.com/depot-hep/ml-lpi/tree/master/week4_cv_gm)
 * recordings: [lecture](https://drive.google.com/file/d/1taPFBDzFCYeg6kzU2aK1l-zlD8DVBYss/view?usp=sharing), (seminar not available)
 
---> **6.  ML in HEP**
+--> **6.  ML examples in HEP**
 
 ---
 
