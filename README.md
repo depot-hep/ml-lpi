@@ -15,7 +15,7 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 
 **1.  Python**
 * [materials](https://github.com/depot-hep/ml-lpi/tree/master/week0_python)
-* recordings: [seminar (part 1)](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar (part 2)](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
+* recordings: [seminar (part A)](https://drive.google.com/file/d/1CO9X0hyKPJvCZklDGpkQBBZ1PDWMM-yf/view?usp=sharing), [seminar (part B)](https://drive.google.com/file/d/1DuCKMwsvp0m6AUAAClwMsSuIum8p4JBR/view?usp=sharing)
 
 **2.  Introduction to ML**
 * [materials](https://github.com/depot-hep/ml-lpi/tree/master/week1_intro_to_ml)
@@ -35,7 +35,7 @@ The common platform initially was the Lebedev Physical Institute (LPI), where [i
 
 **6.  ML examples in HEP**
 * [materials](https://github.com/depot-hep/ml-lpi/tree/master/week5_ml_in_hep)
-* recordings: coming soon
+* recordings: [lecture](https://drive.google.com/file/d/1y7RSduU_48kmYRfRZ_1m0yM3lbLx6iJx/view?usp=sharing), [seminar](https://drive.google.com/file/d/1owHxBbJIIe32jWnCquijJflz58oHEAIp/view?usp=sharing)
 
 ---
 
@@ -44,6 +44,9 @@ There is not much needed to start the journey: basics of calculus, linear algebr
 
 ### Announcements
 For Russian-speaking audience: all the announcements and news related to the course are being posted in [this](https://t.me/joinchat/AAAAAFKpVt6uUk49Io0yFQ) Telegram channel. Also, there is a dedicated [chat](https://t.me/joinchat/GqvG80Wf7CBMKKXqnA0Ggg) for discussions.
+
+### References
+While building this course we were inspired by many other great courses, tutorials and articles. [Here](https://www.notion.so/62265cd8b42d4d2e9eb5dc7d406bc6fd?v=0339f791c2b74a1fa2157d12144b2652) we tried to collect them so that one will be able to look up for additional materials. Note that since it wasn't our primarily goal, this is by a large extent incomplete, unstructured and in a mixture of RU and EN compilation -- but you might find it helpful. 
 
 ### Authors
 * Oleg Filatov [DESY] (<oleg.filatov@cern.ch>)
