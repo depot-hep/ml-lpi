@@ -46,7 +46,7 @@ There is not much needed to start the journey: basics of calculus, linear algebr
 For Russian-speaking audience: all the announcements and news related to the course are being posted in [this](https://t.me/joinchat/AAAAAFKpVt6uUk49Io0yFQ) Telegram channel. Also, there is a dedicated [chat](https://t.me/joinchat/GqvG80Wf7CBMKKXqnA0Ggg) for discussions.
 
 ### References
-While building this course we were inspired by many other great courses, tutorials and articles. [Here](https://www.notion.so/62265cd8b42d4d2e9eb5dc7d406bc6fd?v=0339f791c2b74a1fa2157d12144b2652) we tried to collect them so that one would be able to look up for more additional materials. Note that since it wasn't our primarily goal, this is by a large extent incomplete, unstructured and in a mixture of RU and EN compilation -- but you might find it helpful. 
+While building this course we were inspired by many other great courses, tutorials and articles. [Here](https://www.notion.so/62265cd8b42d4d2e9eb5dc7d406bc6fd?v=0339f791c2b74a1fa2157d12144b2652) we tried to collect them so that one would have a chance to look up for more additional materials. Note that since it wasn't our primarily goal, this is by a large extent incomplete, unstructured and in a mixture of RU and EN compilation -- but you might find it helpful as we did. 
 
 ### Authors
 * Oleg Filatov [DESY] (<oleg.filatov@cern.ch>)
